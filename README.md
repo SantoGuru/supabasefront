@@ -8,3 +8,8 @@ FRONT
 - Diretorio
 > sudo su
 > cd /var/www/html
+
+GIT
+sudo yum install git -y
+
+Back-end voltado ao Supabase;
