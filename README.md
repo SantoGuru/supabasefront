@@ -9,7 +9,6 @@ FRONT
 > sudo su
 > cd /var/www/html
 
-GIT
-sudo yum install git -y
+aws s3 cp s3://meusiteads/siteExemploADS/ . --recursive
 
 Back-end voltado ao Supabase;
